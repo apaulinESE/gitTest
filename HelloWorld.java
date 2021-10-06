@@ -14,7 +14,7 @@ public class HelloWorld
      */
     private static void countToTen(){
 
-        for (int i = 0; i <= 10; i++){
+        //for (int i = 0; i <= 10; i++){ now we've introduced a problem (:
             System.out.println(i);
         }
         return;
