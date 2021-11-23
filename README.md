@@ -1,5 +1,0 @@
-# gitTest
-
-Learning git.
-
-#asdfasdf
